@@ -24,7 +24,7 @@ export default function TermsPage() {
               <section className="space-y-4">
                 <h2 className="text-2xl font-semibold">Agreement to Terms</h2>
                 <p className="text-neutral-700 leading-relaxed">
-                  By accessing or using the advice.ai website and services (collectively, the "Services"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use our Services.
+                  By accessing or using the advice.ai website and services (collectively, the &quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;). If you do not agree to these Terms, please do not use our Services.
                 </p>
               </section>
 
@@ -143,7 +143,7 @@ export default function TermsPage() {
                 <h2 className="text-2xl font-semibold">Disclaimers and Limitations of Liability</h2>
                 <h3 className="text-xl font-semibold">Disclaimer of Warranties</h3>
                 <p className="text-neutral-700 leading-relaxed">
-                  THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+                  THE SERVICES ARE PROVIDED &quot;AS IS&quot; AND &quot;AS AVAILABLE&quot; WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
                 </p>
               </section>
 
@@ -183,7 +183,7 @@ export default function TermsPage() {
               <section className="space-y-4">
                 <h2 className="text-2xl font-semibold">Changes to Terms</h2>
                 <p className="text-neutral-700 leading-relaxed">
-                  We reserve the right to modify these Terms at any time. We will notify you of material changes by posting the updated Terms on our website and updating the "Last updated" date. Your continued use of the Services after such changes constitutes acceptance of the modified Terms.
+                  We reserve the right to modify these Terms at any time. We will notify you of material changes by posting the updated Terms on our website and updating the &quot;Last updated&quot; date. Your continued use of the Services after such changes constitutes acceptance of the modified Terms.
                 </p>
               </section>
 

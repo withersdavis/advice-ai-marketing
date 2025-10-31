@@ -62,7 +62,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4 sm:px-6">
           <div className="max-w-4xl mx-auto">
             <h2 className="text-center mb-8 md:mb-12 text-2xl sm:text-3xl lg:text-4xl px-4">
-              Ultra-high-net-worth families don't have simple financial details
+              Ultra-high-net-worth families don&apos;t have simple financial details
             </h2>
 
             <div className="grid md:grid-cols-2 gap-8 md:gap-12">
@@ -82,7 +82,7 @@ export default function HomePage() {
               <div className="space-y-4 bg-white p-6 md:p-8 rounded-lg border-2 border-accent-200">
                 <h3 className="text-lg md:text-xl font-semibold text-accent-700">Our Platform</h3>
                 <p className="text-base md:text-lg font-medium text-neutral-900">
-                  Doesn't just collect data—it connects the dots.
+                  Doesn&apos;t just collect data—it connects the dots.
                 </p>
                 <p className="text-sm md:text-base text-neutral-600">
                   Complex ecosystems spanning generations, entities with varying ownership, customized strategies across estate, tax, insurance, and net worth.
@@ -186,7 +186,7 @@ export default function HomePage() {
           <div className="text-center mb-10 md:mb-16">
             <h2 className="mb-3 md:mb-4 text-2xl sm:text-3xl lg:text-4xl px-4">Advisors Move from Data Gatherers to Strategic Architects</h2>
             <p className="text-lg md:text-xl text-neutral-600 max-w-3xl mx-auto px-4">
-              The transformation we enable isn't about efficiency alone
+              The transformation we enable isn&apos;t about efficiency alone
             </p>
           </div>
 

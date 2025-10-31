@@ -24,7 +24,7 @@ export default function PrivacyPage() {
               <section className="space-y-4">
                 <h2 className="text-2xl font-semibold">Introduction</h2>
                 <p className="text-neutral-700 leading-relaxed">
-                  advice.ai ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services.
+                  advice.ai (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services.
                 </p>
               </section>
 
@@ -134,7 +134,7 @@ export default function PrivacyPage() {
               </section>
 
               <section className="space-y-4">
-                <h2 className="text-2xl font-semibold">Children's Privacy</h2>
+                <h2 className="text-2xl font-semibold">Children&apos;s Privacy</h2>
                 <p className="text-neutral-700 leading-relaxed">
                   Our services are not directed to individuals under the age of 18. We do not knowingly collect personal information from children.
                 </p>
@@ -143,7 +143,7 @@ export default function PrivacyPage() {
               <section className="space-y-4">
                 <h2 className="text-2xl font-semibold">Changes to This Privacy Policy</h2>
                 <p className="text-neutral-700 leading-relaxed">
-                  We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
+                  We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the &quot;Last updated&quot; date.
                 </p>
               </section>
 
