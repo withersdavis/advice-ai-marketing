@@ -17,13 +17,13 @@ export default function VizTestPage() {
           <div className="flex gap-3 flex-wrap">
             <Button
               onClick={() => setActiveViz('tree')}
-              variant={activeViz === 'tree' ? 'default' : 'outline'}
+              variant={activeViz === 'tree' ? 'primary' : 'outline'}
             >
               Version 1: Hierarchical Tree
             </Button>
             <Button
               onClick={() => setActiveViz('network')}
-              variant={activeViz === 'network' ? 'default' : 'outline'}
+              variant={activeViz === 'network' ? 'primary' : 'outline'}
             >
               Version 2: Orbital System
             </Button>
