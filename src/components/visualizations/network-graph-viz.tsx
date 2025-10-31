@@ -73,6 +73,7 @@ export function NetworkGraphViz() {
     }
 
     function animate() {
+      if (!ctx) return;
       // Subtle gradient background
       const bgGradient = ctx.createLinearGradient(0, 0, 0, height);
       bgGradient.addColorStop(0, '#ffffff');

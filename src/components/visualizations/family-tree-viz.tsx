@@ -165,6 +165,7 @@ export function FamilyTreeViz() {
     }
 
     function drawConnection(from: any, to: any) {
+      if (!ctx) return;
       const gradient = ctx.createLinearGradient(from.x, from.y, to.x, to.y);
       const alpha = 0.12 + (from.scale + to.scale) * 0.08;
       gradient.addColorStop(0, `rgba(100, 100, 120, ${alpha})`);
@@ -185,6 +186,7 @@ export function FamilyTreeViz() {
     }
 
     function drawSphere(proj: any, node: TreeNode3D) {
+      if (!ctx) return;
       const radius = node.size * proj.scale;
       const rgb = hexToRgb(node.color);
 
@@ -300,6 +302,7 @@ export function FamilyTreeViz() {
     }
 
     function animate() {
+      if (!ctx) return;
       // Subtle gradient background
       const bgGradient = ctx.createLinearGradient(0, 0, 0, height);
       bgGradient.addColorStop(0, '#ffffff');

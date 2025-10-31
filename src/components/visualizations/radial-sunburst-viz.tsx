@@ -58,6 +58,7 @@ export function RadialSunburstViz() {
     let rotation = 0;
 
     function animate() {
+      if (!ctx) return;
       ctx.clearRect(0, 0, width, height);
 
       rotation += 0.005;
